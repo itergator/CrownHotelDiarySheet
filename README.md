@@ -1,4 +1,4 @@
-# CrownHotelDiarySheet
+# Crown Hotel Diary Sheet
 java application printing bespoke daily sheets for room reservations at the Crown Hotel, Downham Market
 
 version 1.0
